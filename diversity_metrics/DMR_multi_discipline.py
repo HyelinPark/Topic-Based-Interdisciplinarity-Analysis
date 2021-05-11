@@ -220,25 +220,6 @@ else:
             avg_sim += ele
         print(str(topic_id_map[i]) + " : " + str(avg_sim/len(mat)) + " : " + str(1-(avg_sim/len(mat))))
 
-    print("topic coherence")
-    #topic coherence
-    coherence_per_topic = collections.defaultdict(list)
-
-    for seg, cm, im in itertools.product(tp.coherence.Segmentation, tp.coherence.ConfirmMeasure,
-                                         tp.coherence.IndirectMeasure):
-
-        coh = tp.coherence.Coherence(model, coherence=(tp.coherence.ProbEstimation.DOCUMENT, seg, cm, im))
-        average_coherence = coh.get_score()
-        for k in range(model.k):
-            score = coh.get_score(topic_id=k)
-            print(k)
-            coherence_per_topic[k].append(score)
-            #print(str(k) + " ::" + str(score))
-
-    for i, key in enumerate(coherence_per_topic):
-        cohs = coherence_per_topic[key]
-        print(str(key) + " ::" + str(np.mean(cohs)) + " :: " + str(np.nanmean(cohs)))
-
     print("topic diversity")
     n = 50
     print(len(topic_discipline))
