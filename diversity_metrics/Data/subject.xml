@@ -1,0 +1,336 @@
+<subject-classifications>
+   <subject-classification code="1000" detail="Multidisciplinary" abbrev="MULT">Multidisciplinary</subject-classification>
+   <subject-classification code="1100" detail="Agricultural and Biological Sciences (all)" abbrev="AGRI">Agricultural and Biological Sciences (all)</subject-classification>
+   <subject-classification code="1101" detail="Agricultural and Biological Sciences (miscellaneous)" abbrev="AGRI">Agricultural and Biological Sciences (miscellaneous)</subject-classification>
+   <subject-classification code="1102" detail="Agronomy and Crop Science" abbrev="AGRI">Agronomy and Crop Science</subject-classification>
+   <subject-classification code="1103" detail="Animal Science and Zoology" abbrev="AGRI">Animal Science and Zoology</subject-classification>
+   <subject-classification code="1104" detail="Aquatic Science" abbrev="AGRI">Aquatic Science</subject-classification>
+   <subject-classification code="1105" detail="Ecology, Evolution, Behavior and Systematics" abbrev="AGRI">Ecology, Evolution, Behavior and Systematics</subject-classification>
+   <subject-classification code="1106" detail="Food Science" abbrev="AGRI">Food Science</subject-classification>
+   <subject-classification code="1107" detail="Forestry" abbrev="AGRI">Forestry</subject-classification>
+   <subject-classification code="1108" detail="Horticulture" abbrev="AGRI">Horticulture</subject-classification>
+   <subject-classification code="1109" detail="Insect Science" abbrev="AGRI">Insect Science</subject-classification>
+   <subject-classification code="1110" detail="Plant Science" abbrev="AGRI">Plant Science</subject-classification>
+   <subject-classification code="1111" detail="Soil Science" abbrev="AGRI">Soil Science</subject-classification>
+   <subject-classification code="1200" detail="Arts and Humanities (all)" abbrev="ARTS">Arts and Humanities (all)</subject-classification>
+   <subject-classification code="1201" detail="Arts and Humanities (miscellaneous)" abbrev="ARTS">Arts and Humanities (miscellaneous)</subject-classification>
+   <subject-classification code="1202" detail="History" abbrev="ARTS">History</subject-classification>
+   <subject-classification code="1203" detail="Language and Linguistics" abbrev="ARTS">Language and Linguistics</subject-classification>
+   <subject-classification code="1204" detail="Archeology (arts and humanities)" abbrev="ARTS">Archeology (arts and humanities)</subject-classification>
+   <subject-classification code="1205" detail="Classics" abbrev="ARTS">Classics</subject-classification>
+   <subject-classification code="1206" detail="Conservation" abbrev="ARTS">Conservation</subject-classification>
+   <subject-classification code="1207" detail="History and Philosophy of Science" abbrev="ARTS">History and Philosophy of Science</subject-classification>
+   <subject-classification code="1208" detail="Literature and Literary Theory" abbrev="ARTS">Literature and Literary Theory</subject-classification>
+   <subject-classification code="1209" detail="Museology" abbrev="ARTS">Museology</subject-classification>
+   <subject-classification code="1210" detail="Music" abbrev="ARTS">Music</subject-classification>
+   <subject-classification code="1211" detail="Philosophy" abbrev="ARTS">Philosophy</subject-classification>
+   <subject-classification code="1212" detail="Religious Studies" abbrev="ARTS">Religious Studies</subject-classification>
+   <subject-classification code="1213" detail="Visual Arts and Performing Arts" abbrev="ARTS">Visual Arts and Performing Arts</subject-classification>
+   <subject-classification code="1300" detail="Biochemistry, Genetics and Molecular Biology (all)" abbrev="BIOC">Biochemistry, Genetics and Molecular Biology (all)</subject-classification>
+   <subject-classification code="1301" detail="Biochemistry, Genetics and Molecular Biology (miscellaneous)" abbrev="BIOC">Biochemistry, Genetics and Molecular Biology (miscellaneous)</subject-classification>
+   <subject-classification code="1302" detail="Aging" abbrev="BIOC">Aging</subject-classification>
+   <subject-classification code="1303" detail="Biochemistry" abbrev="BIOC">Biochemistry</subject-classification>
+   <subject-classification code="1304" detail="Biophysics" abbrev="BIOC">Biophysics</subject-classification>
+   <subject-classification code="1305" detail="Biotechnology" abbrev="BIOC">Biotechnology</subject-classification>
+   <subject-classification code="1306" detail="Cancer Research" abbrev="BIOC">Cancer Research</subject-classification>
+   <subject-classification code="1307" detail="Cell Biology" abbrev="BIOC">Cell Biology</subject-classification>
+   <subject-classification code="1308" detail="Clinical Biochemistry" abbrev="BIOC">Clinical Biochemistry</subject-classification>
+   <subject-classification code="1309" detail="Developmental Biology" abbrev="BIOC">Developmental Biology</subject-classification>
+   <subject-classification code="1310" detail="Endocrinology" abbrev="BIOC">Endocrinology</subject-classification>
+   <subject-classification code="1311" detail="Genetics" abbrev="BIOC">Genetics</subject-classification>
+   <subject-classification code="1312" detail="Molecular Biology" abbrev="BIOC">Molecular Biology</subject-classification>
+   <subject-classification code="1313" detail="Molecular Medicine" abbrev="BIOC">Molecular Medicine</subject-classification>
+   <subject-classification code="1314" detail="Physiology" abbrev="BIOC">Physiology</subject-classification>
+   <subject-classification code="1315" detail="Structural Biology" abbrev="BIOC">Structural Biology</subject-classification>
+   <subject-classification code="1400" detail="Business, Management and Accounting (all)" abbrev="BUSI">Business, Management and Accounting (all)</subject-classification>
+   <subject-classification code="1401" detail="Business, Management and Accounting (miscellaneous)" abbrev="BUSI">Business, Management and Accounting (miscellaneous)</subject-classification>
+   <subject-classification code="1402" detail="Accounting" abbrev="BUSI">Accounting</subject-classification>
+   <subject-classification code="1403" detail="Business and International Management" abbrev="BUSI">Business and International Management</subject-classification>
+   <subject-classification code="1404" detail="Management Information Systems" abbrev="BUSI">Management Information Systems</subject-classification>
+   <subject-classification code="1405" detail="Management of Technology and Innovation" abbrev="BUSI">Management of Technology and Innovation</subject-classification>
+   <subject-classification code="1406" detail="Marketing" abbrev="BUSI">Marketing</subject-classification>
+   <subject-classification code="1407" detail="Organizational Behavior and Human Resource Management" abbrev="BUSI">Organizational Behavior and Human Resource Management</subject-classification>
+   <subject-classification code="1408" detail="Strategy and Management" abbrev="BUSI">Strategy and Management</subject-classification>
+   <subject-classification code="1409" detail="Tourism, Leisure and Hospitality Management" abbrev="BUSI">Tourism, Leisure and Hospitality Management</subject-classification>
+   <subject-classification code="1410" detail="Industrial Relations" abbrev="BUSI">Industrial Relations</subject-classification>
+   <subject-classification code="1500" detail="Chemical Engineering (all)" abbrev="CENG">Chemical Engineering (all)</subject-classification>
+   <subject-classification code="1501" detail="Chemical Engineering (miscellaneous)" abbrev="CENG">Chemical Engineering (miscellaneous)</subject-classification>
+   <subject-classification code="1502" detail="Bioengineering" abbrev="CENG">Bioengineering</subject-classification>
+   <subject-classification code="1503" detail="Catalysis" abbrev="CENG">Catalysis</subject-classification>
+   <subject-classification code="1504" detail="Chemical Health and Safety" abbrev="CENG">Chemical Health and Safety</subject-classification>
+   <subject-classification code="1505" detail="Colloid and Surface Chemistry" abbrev="CENG">Colloid and Surface Chemistry</subject-classification>
+   <subject-classification code="1506" detail="Filtration and Separation" abbrev="CENG">Filtration and Separation</subject-classification>
+   <subject-classification code="1507" detail="Fluid Flow and Transfer Processes" abbrev="CENG">Fluid Flow and Transfer Processes</subject-classification>
+   <subject-classification code="1508" detail="Process Chemistry and Technology" abbrev="CENG">Process Chemistry and Technology</subject-classification>
+   <subject-classification code="1600" detail="Chemistry (all)" abbrev="CHEM">Chemistry (all)</subject-classification>
+   <subject-classification code="1601" detail="Chemistry (miscellaneous)" abbrev="CHEM">Chemistry (miscellaneous)</subject-classification>
+   <subject-classification code="1602" detail="Analytical Chemistry" abbrev="CHEM">Analytical Chemistry</subject-classification>
+   <subject-classification code="1603" detail="Electrochemistry" abbrev="CHEM">Electrochemistry</subject-classification>
+   <subject-classification code="1604" detail="Inorganic Chemistry" abbrev="CHEM">Inorganic Chemistry</subject-classification>
+   <subject-classification code="1605" detail="Organic Chemistry" abbrev="CHEM">Organic Chemistry</subject-classification>
+   <subject-classification code="1606" detail="Physical and Theoretical Chemistry" abbrev="CHEM">Physical and Theoretical Chemistry</subject-classification>
+   <subject-classification code="1607" detail="Spectroscopy" abbrev="CHEM">Spectroscopy</subject-classification>
+   <subject-classification code="1700" detail="Computer Science (all)" abbrev="COMP">Computer Science (all)</subject-classification>
+   <subject-classification code="1701" detail="Computer Science (miscellaneous)" abbrev="COMP">Computer Science (miscellaneous)</subject-classification>
+   <subject-classification code="1702" detail="Artificial Intelligence" abbrev="COMP">Artificial Intelligence</subject-classification>
+   <subject-classification code="1703" detail="Computational Theory and Mathematics" abbrev="COMP">Computational Theory and Mathematics</subject-classification>
+   <subject-classification code="1704" detail="Computer Graphics and Computer-Aided Design" abbrev="COMP">Computer Graphics and Computer-Aided Design</subject-classification>
+   <subject-classification code="1705" detail="Computer Networks and Communications" abbrev="COMP">Computer Networks and Communications</subject-classification>
+   <subject-classification code="1706" detail="Computer Science Applications" abbrev="COMP">Computer Science Applications</subject-classification>
+   <subject-classification code="1707" detail="Computer Vision and Pattern Recognition" abbrev="COMP">Computer Vision and Pattern Recognition</subject-classification>
+   <subject-classification code="1708" detail="Hardware and Architecture" abbrev="COMP">Hardware and Architecture</subject-classification>
+   <subject-classification code="1709" detail="Human-Computer Interaction" abbrev="COMP">Human-Computer Interaction</subject-classification>
+   <subject-classification code="1710" detail="Information Systems" abbrev="COMP">Information Systems</subject-classification>
+   <subject-classification code="1711" detail="Signal Processing" abbrev="COMP">Signal Processing</subject-classification>
+   <subject-classification code="1712" detail="Software" abbrev="COMP">Software</subject-classification>
+   <subject-classification code="1800" detail="Decision Sciences (all)" abbrev="DECI">Decision Sciences (all)</subject-classification>
+   <subject-classification code="1801" detail="Decision Sciences (miscellaneous)" abbrev="DECI">Decision Sciences (miscellaneous)</subject-classification>
+   <subject-classification code="1802" detail="Information Systems and Management" abbrev="DECI">Information Systems and Management</subject-classification>
+   <subject-classification code="1803" detail="Management Science and Operations Research" abbrev="DECI">Management Science and Operations Research</subject-classification>
+   <subject-classification code="1804" detail="Statistics, Probability and Uncertainty" abbrev="DECI">Statistics, Probability and Uncertainty</subject-classification>
+   <subject-classification code="1900" detail="Earth and Planetary Sciences (all)" abbrev="EART">Earth and Planetary Sciences (all)</subject-classification>
+   <subject-classification code="1901" detail="Earth and Planetary Sciences (miscellaneous)" abbrev="EART">Earth and Planetary Sciences (miscellaneous)</subject-classification>
+   <subject-classification code="1902" detail="Atmospheric Science" abbrev="EART">Atmospheric Science</subject-classification>
+   <subject-classification code="1903" detail="Computers in Earth Sciences" abbrev="EART">Computers in Earth Sciences</subject-classification>
+   <subject-classification code="1904" detail="Earth-Surface Processes" abbrev="EART">Earth-Surface Processes</subject-classification>
+   <subject-classification code="1905" detail="Economic Geology" abbrev="EART">Economic Geology</subject-classification>
+   <subject-classification code="1906" detail="Geochemistry and Petrology" abbrev="EART">Geochemistry and Petrology</subject-classification>
+   <subject-classification code="1907" detail="Geology" abbrev="EART">Geology</subject-classification>
+   <subject-classification code="1908" detail="Geophysics" abbrev="EART">Geophysics</subject-classification>
+   <subject-classification code="1909" detail="Geotechnical Engineering and Engineering Geology" abbrev="EART">Geotechnical Engineering and Engineering Geology</subject-classification>
+   <subject-classification code="1910" detail="Oceanography" abbrev="EART">Oceanography</subject-classification>
+   <subject-classification code="1911" detail="Paleontology" abbrev="EART">Paleontology</subject-classification>
+   <subject-classification code="1912" detail="Space and Planetary Science" abbrev="EART">Space and Planetary Science</subject-classification>
+   <subject-classification code="1913" detail="Stratigraphy" abbrev="EART">Stratigraphy</subject-classification>
+   <subject-classification code="2000" detail="Economics, Econometrics and Finance (all)" abbrev="ECON">Economics, Econometrics and Finance (all)</subject-classification>
+   <subject-classification code="2001" detail="Economics, Econometrics and Finance (miscellaneous)" abbrev="ECON">Economics, Econometrics and Finance (miscellaneous)</subject-classification>
+   <subject-classification code="2002" detail="Economics and Econometrics" abbrev="ECON">Economics and Econometrics</subject-classification>
+   <subject-classification code="2003" detail="Finance" abbrev="ECON">Finance</subject-classification>
+   <subject-classification code="2100" detail="Energy (all)" abbrev="ENER">Energy (all)</subject-classification>
+   <subject-classification code="2101" detail="Energy (miscellaneous)" abbrev="ENER">Energy (miscellaneous)</subject-classification>
+   <subject-classification code="2102" detail="Energy Engineering and Power Technology" abbrev="ENER">Energy Engineering and Power Technology</subject-classification>
+   <subject-classification code="2103" detail="Fuel Technology" abbrev="ENER">Fuel Technology</subject-classification>
+   <subject-classification code="2104" detail="Nuclear Energy and Engineering" abbrev="ENER">Nuclear Energy and Engineering</subject-classification>
+   <subject-classification code="2105" detail="Renewable Energy, Sustainability and the Environment" abbrev="ENER">Renewable Energy, Sustainability and the Environment</subject-classification>
+   <subject-classification code="2200" detail="Engineering (all)" abbrev="ENGI">Engineering (all)</subject-classification>
+   <subject-classification code="2201" detail="Engineering (miscellaneous)" abbrev="ENGI">Engineering (miscellaneous)</subject-classification>
+   <subject-classification code="2202" detail="Aerospace Engineering" abbrev="ENGI">Aerospace Engineering</subject-classification>
+   <subject-classification code="2203" detail="Automotive Engineering" abbrev="ENGI">Automotive Engineering</subject-classification>
+   <subject-classification code="2204" detail="Biomedical Engineering" abbrev="ENGI">Biomedical Engineering</subject-classification>
+   <subject-classification code="2205" detail="Civil and Structural Engineering" abbrev="ENGI">Civil and Structural Engineering</subject-classification>
+   <subject-classification code="2206" detail="Computational Mechanics" abbrev="ENGI">Computational Mechanics</subject-classification>
+   <subject-classification code="2207" detail="Control and Systems Engineering" abbrev="ENGI">Control and Systems Engineering</subject-classification>
+   <subject-classification code="2208" detail="Electrical and Electronic Engineering" abbrev="ENGI">Electrical and Electronic Engineering</subject-classification>
+   <subject-classification code="2209" detail="Industrial and Manufacturing Engineering" abbrev="ENGI">Industrial and Manufacturing Engineering</subject-classification>
+   <subject-classification code="2210" detail="Mechanical Engineering" abbrev="ENGI">Mechanical Engineering</subject-classification>
+   <subject-classification code="2211" detail="Mechanics of Materials" abbrev="ENGI">Mechanics of Materials</subject-classification>
+   <subject-classification code="2212" detail="Ocean Engineering" abbrev="ENGI">Ocean Engineering</subject-classification>
+   <subject-classification code="2213" detail="Safety, Risk, Reliability and Quality" abbrev="ENGI">Safety, Risk, Reliability and Quality</subject-classification>
+   <subject-classification code="2214" detail="Media Technology" abbrev="ENGI">Media Technology</subject-classification>
+   <subject-classification code="2215" detail="Building and Construction" abbrev="ENGI">Building and Construction</subject-classification>
+   <subject-classification code="2216" detail="Architecture" abbrev="ENGI">Architecture</subject-classification>
+   <subject-classification code="2300" detail="Environmental Science (all)" abbrev="ENVI">Environmental Science (all)</subject-classification>
+   <subject-classification code="2301" detail="Environmental Science (miscellaneous)" abbrev="ENVI">Environmental Science (miscellaneous)</subject-classification>
+   <subject-classification code="2302" detail="Ecological Modeling" abbrev="ENVI">Ecological Modeling</subject-classification>
+   <subject-classification code="2303" detail="Ecology" abbrev="ENVI">Ecology</subject-classification>
+   <subject-classification code="2304" detail="Environmental Chemistry" abbrev="ENVI">Environmental Chemistry</subject-classification>
+   <subject-classification code="2305" detail="Environmental Engineering" abbrev="ENVI">Environmental Engineering</subject-classification>
+   <subject-classification code="2306" detail="Global and Planetary Change" abbrev="ENVI">Global and Planetary Change</subject-classification>
+   <subject-classification code="2307" detail="Health, Toxicology and Mutagenesis" abbrev="ENVI">Health, Toxicology and Mutagenesis</subject-classification>
+   <subject-classification code="2308" detail="Management, Monitoring, Policy and Law" abbrev="ENVI">Management, Monitoring, Policy and Law</subject-classification>
+   <subject-classification code="2309" detail="Nature and Landscape Conservation" abbrev="ENVI">Nature and Landscape Conservation</subject-classification>
+   <subject-classification code="2310" detail="Pollution" abbrev="ENVI">Pollution</subject-classification>
+   <subject-classification code="2311" detail="Waste Management and Disposal" abbrev="ENVI">Waste Management and Disposal</subject-classification>
+   <subject-classification code="2312" detail="Water Science and Technology" abbrev="ENVI">Water Science and Technology</subject-classification>
+   <subject-classification code="2400" detail="Immunology and Microbiology (all)" abbrev="IMMU">Immunology and Microbiology (all)</subject-classification>
+   <subject-classification code="2401" detail="Immunology and Microbiology (miscellaneous)" abbrev="IMMU">Immunology and Microbiology (miscellaneous)</subject-classification>
+   <subject-classification code="2402" detail="Applied Microbiology and Biotechnology" abbrev="IMMU">Applied Microbiology and Biotechnology</subject-classification>
+   <subject-classification code="2403" detail="Immunology" abbrev="IMMU">Immunology</subject-classification>
+   <subject-classification code="2404" detail="Microbiology" abbrev="IMMU">Microbiology</subject-classification>
+   <subject-classification code="2405" detail="Parasitology" abbrev="IMMU">Parasitology</subject-classification>
+   <subject-classification code="2406" detail="Virology" abbrev="IMMU">Virology</subject-classification>
+   <subject-classification code="2500" detail="Materials Science (all)" abbrev="MATE">Materials Science (all)</subject-classification>
+   <subject-classification code="2501" detail="Materials Science (miscellaneous)" abbrev="MATE">Materials Science (miscellaneous)</subject-classification>
+   <subject-classification code="2502" detail="Biomaterials" abbrev="MATE">Biomaterials</subject-classification>
+   <subject-classification code="2503" detail="Ceramics and Composites" abbrev="MATE">Ceramics and Composites</subject-classification>
+   <subject-classification code="2504" detail="Electronic, Optical and Magnetic Materials" abbrev="MATE">Electronic, Optical and Magnetic Materials</subject-classification>
+   <subject-classification code="2505" detail="Materials Chemistry" abbrev="MATE">Materials Chemistry</subject-classification>
+   <subject-classification code="2506" detail="Metals and Alloys" abbrev="MATE">Metals and Alloys</subject-classification>
+   <subject-classification code="2507" detail="Polymers and Plastics" abbrev="MATE">Polymers and Plastics</subject-classification>
+   <subject-classification code="2508" detail="Surfaces, Coatings and Films" abbrev="MATE">Surfaces, Coatings and Films</subject-classification>
+   <subject-classification code="2600" detail="Mathematics (all)" abbrev="MATH">Mathematics (all)</subject-classification>
+   <subject-classification code="2601" detail="Mathematics (miscellaneous)" abbrev="MATH">Mathematics (miscellaneous)</subject-classification>
+   <subject-classification code="2602" detail="Algebra and Number Theory" abbrev="MATH">Algebra and Number Theory</subject-classification>
+   <subject-classification code="2603" detail="Analysis" abbrev="MATH">Analysis</subject-classification>
+   <subject-classification code="2604" detail="Applied Mathematics" abbrev="MATH">Applied Mathematics</subject-classification>
+   <subject-classification code="2605" detail="Computational Mathematics" abbrev="MATH">Computational Mathematics</subject-classification>
+   <subject-classification code="2606" detail="Control and Optimization" abbrev="MATH">Control and Optimization</subject-classification>
+   <subject-classification code="2607" detail="Discrete Mathematics and Combinatorics" abbrev="MATH">Discrete Mathematics and Combinatorics</subject-classification>
+   <subject-classification code="2608" detail="Geometry and Topology" abbrev="MATH">Geometry and Topology</subject-classification>
+   <subject-classification code="2609" detail="Logic" abbrev="MATH">Logic</subject-classification>
+   <subject-classification code="2610" detail="Mathematical Physics" abbrev="MATH">Mathematical Physics</subject-classification>
+   <subject-classification code="2611" detail="Modeling and Simulation" abbrev="MATH">Modeling and Simulation</subject-classification>
+   <subject-classification code="2612" detail="Numerical Analysis" abbrev="MATH">Numerical Analysis</subject-classification>
+   <subject-classification code="2613" detail="Statistics and Probability" abbrev="MATH">Statistics and Probability</subject-classification>
+   <subject-classification code="2614" detail="Theoretical Computer Science" abbrev="MATH">Theoretical Computer Science</subject-classification>
+   <subject-classification code="2700" detail="Medicine (all)" abbrev="MEDI">Medicine (all)</subject-classification>
+   <subject-classification code="2701" detail="Medicine (miscellaneous)" abbrev="MEDI">Medicine (miscellaneous)</subject-classification>
+   <subject-classification code="2702" detail="Anatomy" abbrev="MEDI">Anatomy</subject-classification>
+   <subject-classification code="2703" detail="Anesthesiology and Pain Medicine" abbrev="MEDI">Anesthesiology and Pain Medicine</subject-classification>
+   <subject-classification code="2704" detail="Biochemistry (medical)" abbrev="MEDI">Biochemistry (medical)</subject-classification>
+   <subject-classification code="2705" detail="Cardiology and Cardiovascular Medicine" abbrev="MEDI">Cardiology and Cardiovascular Medicine</subject-classification>
+   <subject-classification code="2706" detail="Critical Care and Intensive Care Medicine" abbrev="MEDI">Critical Care and Intensive Care Medicine</subject-classification>
+   <subject-classification code="2707" detail="Complementary and Alternative Medicine" abbrev="MEDI">Complementary and Alternative Medicine</subject-classification>
+   <subject-classification code="2708" detail="Dermatology" abbrev="MEDI">Dermatology</subject-classification>
+   <subject-classification code="2709" detail="Drug Guides" abbrev="MEDI">Drug Guides</subject-classification>
+   <subject-classification code="2710" detail="Embryology" abbrev="MEDI">Embryology</subject-classification>
+   <subject-classification code="2711" detail="Emergency Medicine" abbrev="MEDI">Emergency Medicine</subject-classification>
+   <subject-classification code="2712" detail="Endocrinology, Diabetes and Metabolism" abbrev="MEDI">Endocrinology, Diabetes and Metabolism</subject-classification>
+   <subject-classification code="2713" detail="Epidemiology" abbrev="MEDI">Epidemiology</subject-classification>
+   <subject-classification code="2714" detail="Family Practice" abbrev="MEDI">Family Practice</subject-classification>
+   <subject-classification code="2715" detail="Gastroenterology" abbrev="MEDI">Gastroenterology</subject-classification>
+   <subject-classification code="2716" detail="Genetics (clinical)" abbrev="MEDI">Genetics (clinical)</subject-classification>
+   <subject-classification code="2717" detail="Geriatrics and Gerontology" abbrev="MEDI">Geriatrics and Gerontology</subject-classification>
+   <subject-classification code="2718" detail="Health Informatics" abbrev="MEDI">Health Informatics</subject-classification>
+   <subject-classification code="2719" detail="Health Policy" abbrev="MEDI">Health Policy</subject-classification>
+   <subject-classification code="2720" detail="Hematology" abbrev="MEDI">Hematology</subject-classification>
+   <subject-classification code="2721" detail="Hepatology" abbrev="MEDI">Hepatology</subject-classification>
+   <subject-classification code="2722" detail="Histology" abbrev="MEDI">Histology</subject-classification>
+   <subject-classification code="2723" detail="Immunology and Allergy" abbrev="MEDI">Immunology and Allergy</subject-classification>
+   <subject-classification code="2724" detail="Internal Medicine" abbrev="MEDI">Internal Medicine</subject-classification>
+   <subject-classification code="2725" detail="Infectious Diseases" abbrev="MEDI">Infectious Diseases</subject-classification>
+   <subject-classification code="2726" detail="Microbiology (medical)" abbrev="MEDI">Microbiology (medical)</subject-classification>
+   <subject-classification code="2727" detail="Nephrology" abbrev="MEDI">Nephrology</subject-classification>
+   <subject-classification code="2728" detail="Neurology (clinical)" abbrev="MEDI">Neurology (clinical)</subject-classification>
+   <subject-classification code="2729" detail="Obstetrics and Gynecology" abbrev="MEDI">Obstetrics and Gynecology</subject-classification>
+   <subject-classification code="2730" detail="Oncology" abbrev="MEDI">Oncology</subject-classification>
+   <subject-classification code="2731" detail="Ophthalmology" abbrev="MEDI">Ophthalmology</subject-classification>
+   <subject-classification code="2732" detail="Orthopedics and Sports Medicine" abbrev="MEDI">Orthopedics and Sports Medicine</subject-classification>
+   <subject-classification code="2733" detail="Otorhinolaryngology" abbrev="MEDI">Otorhinolaryngology</subject-classification>
+   <subject-classification code="2734" detail="Pathology and Forensic Medicine" abbrev="MEDI">Pathology and Forensic Medicine</subject-classification>
+   <subject-classification code="2735" detail="Pediatrics, Perinatology and Child Health" abbrev="MEDI">Pediatrics, Perinatology and Child Health</subject-classification>
+   <subject-classification code="2736" detail="Pharmacology (medical)" abbrev="MEDI">Pharmacology (medical)</subject-classification>
+   <subject-classification code="2737" detail="Physiology (medical)" abbrev="MEDI">Physiology (medical)</subject-classification>
+   <subject-classification code="2738" detail="Psychiatry and Mental Health" abbrev="MEDI">Psychiatry and Mental Health</subject-classification>
+   <subject-classification code="2739" detail="Public Health, Environmental and Occupational Health" abbrev="MEDI">Public Health, Environmental and Occupational Health</subject-classification>
+   <subject-classification code="2740" detail="Pulmonary and Respiratory Medicine" abbrev="MEDI">Pulmonary and Respiratory Medicine</subject-classification>
+   <subject-classification code="2741" detail="Radiology, Nuclear Medicine and Imaging" abbrev="MEDI">Radiology, Nuclear Medicine and Imaging</subject-classification>
+   <subject-classification code="2742" detail="Rehabilitation" abbrev="MEDI">Rehabilitation</subject-classification>
+   <subject-classification code="2743" detail="Reproductive Medicine" abbrev="MEDI">Reproductive Medicine</subject-classification>
+   <subject-classification code="2744" detail="Reviews and References (medical)" abbrev="MEDI">Reviews and References (medical)</subject-classification>
+   <subject-classification code="2745" detail="Rheumatology" abbrev="MEDI">Rheumatology</subject-classification>
+   <subject-classification code="2746" detail="Surgery" abbrev="MEDI">Surgery</subject-classification>
+   <subject-classification code="2747" detail="Transplantation" abbrev="MEDI">Transplantation</subject-classification>
+   <subject-classification code="2748" detail="Urology" abbrev="MEDI">Urology</subject-classification>
+   <subject-classification code="2800" detail="Neuroscience (all)" abbrev="NEUR">Neuroscience (all)</subject-classification>
+   <subject-classification code="2801" detail="Neuroscience (miscellaneous)" abbrev="NEUR">Neuroscience (miscellaneous)</subject-classification>
+   <subject-classification code="2802" detail="Behavioral Neuroscience" abbrev="NEUR">Behavioral Neuroscience</subject-classification>
+   <subject-classification code="2803" detail="Biological Psychiatry" abbrev="NEUR">Biological Psychiatry</subject-classification>
+   <subject-classification code="2804" detail="Cellular and Molecular Neuroscience" abbrev="NEUR">Cellular and Molecular Neuroscience</subject-classification>
+   <subject-classification code="2805" detail="Cognitive Neuroscience" abbrev="NEUR">Cognitive Neuroscience</subject-classification>
+   <subject-classification code="2806" detail="Developmental Neuroscience" abbrev="NEUR">Developmental Neuroscience</subject-classification>
+   <subject-classification code="2807" detail="Endocrine and Autonomic Systems" abbrev="NEUR">Endocrine and Autonomic Systems</subject-classification>
+   <subject-classification code="2808" detail="Neurology" abbrev="NEUR">Neurology</subject-classification>
+   <subject-classification code="2809" detail="Sensory Systems" abbrev="NEUR">Sensory Systems</subject-classification>
+   <subject-classification code="2900" detail="Nursing (all)" abbrev="NURS">Nursing (all)</subject-classification>
+   <subject-classification code="2901" detail="Nursing (miscellaneous)" abbrev="NURS">Nursing (miscellaneous)</subject-classification>
+   <subject-classification code="2902" detail="Advanced and Specialized Nursing" abbrev="NURS">Advanced and Specialized Nursing</subject-classification>
+   <subject-classification code="2903" detail="Assessment and Diagnosis" abbrev="NURS">Assessment and Diagnosis</subject-classification>
+   <subject-classification code="2904" detail="Care Planning" abbrev="NURS">Care Planning</subject-classification>
+   <subject-classification code="2905" detail="Community and Home Care" abbrev="NURS">Community and Home Care</subject-classification>
+   <subject-classification code="2906" detail="Critical Care Nursing" abbrev="NURS">Critical Care Nursing</subject-classification>
+   <subject-classification code="2907" detail="Emergency Nursing" abbrev="NURS">Emergency Nursing</subject-classification>
+   <subject-classification code="2908" detail="Fundamentals and Skills" abbrev="NURS">Fundamentals and Skills</subject-classification>
+   <subject-classification code="2909" detail="Gerontology" abbrev="NURS">Gerontology</subject-classification>
+   <subject-classification code="2910" detail="Issues, Ethics and Legal Aspects" abbrev="NURS">Issues, Ethics and Legal Aspects</subject-classification>
+   <subject-classification code="2911" detail="Leadership and Management" abbrev="NURS">Leadership and Management</subject-classification>
+   <subject-classification code="2912" detail="LPN and LVN" abbrev="NURS">LPN and LVN</subject-classification>
+   <subject-classification code="2913" detail="Maternity and Midwifery" abbrev="NURS">Maternity and Midwifery</subject-classification>
+   <subject-classification code="2914" detail="Medical and Surgical Nursing" abbrev="NURS">Medical and Surgical Nursing</subject-classification>
+   <subject-classification code="2915" detail="Nurse Assisting" abbrev="NURS">Nurse Assisting</subject-classification>
+   <subject-classification code="2916" detail="Nutrition and Dietetics" abbrev="NURS">Nutrition and Dietetics</subject-classification>
+   <subject-classification code="2917" detail="Oncology (nursing)" abbrev="NURS">Oncology (nursing)</subject-classification>
+   <subject-classification code="2918" detail="Pathophysiology" abbrev="NURS">Pathophysiology</subject-classification>
+   <subject-classification code="2919" detail="Pediatrics" abbrev="NURS">Pediatrics</subject-classification>
+   <subject-classification code="2920" detail="Pharmacology (nursing)" abbrev="NURS">Pharmacology (nursing)</subject-classification>
+   <subject-classification code="2921" detail="Psychiatric Mental Health" abbrev="NURS">Psychiatric Mental Health</subject-classification>
+   <subject-classification code="2922" detail="Research and Theory" abbrev="NURS">Research and Theory</subject-classification>
+   <subject-classification code="2923" detail="Review and Exam Preparation" abbrev="NURS">Review and Exam Preparation</subject-classification>
+   <subject-classification code="3000" detail="Pharmacology, Toxicology and Pharmaceutics (all)" abbrev="PHAR">Pharmacology, Toxicology and Pharmaceutics (all)</subject-classification>
+   <subject-classification code="3001" detail="Pharmacology, Toxicology and Pharmaceutics (miscellaneous)" abbrev="PHAR">Pharmacology, Toxicology and Pharmaceutics (miscellaneous)</subject-classification>
+   <subject-classification code="3002" detail="Drug Discovery" abbrev="PHAR">Drug Discovery</subject-classification>
+   <subject-classification code="3003" detail="Pharmaceutical Science" abbrev="PHAR">Pharmaceutical Science</subject-classification>
+   <subject-classification code="3004" detail="Pharmacology" abbrev="PHAR">Pharmacology</subject-classification>
+   <subject-classification code="3005" detail="Toxicology" abbrev="PHAR">Toxicology</subject-classification>
+   <subject-classification code="3100" detail="Physics and Astronomy (all)" abbrev="PHYS">Physics and Astronomy (all)</subject-classification>
+   <subject-classification code="3101" detail="Physics and Astronomy (miscellaneous)" abbrev="PHYS">Physics and Astronomy (miscellaneous)</subject-classification>
+   <subject-classification code="3102" detail="Acoustics and Ultrasonics" abbrev="PHYS">Acoustics and Ultrasonics</subject-classification>
+   <subject-classification code="3103" detail="Astronomy and Astrophysics" abbrev="PHYS">Astronomy and Astrophysics</subject-classification>
+   <subject-classification code="3104" detail="Condensed Matter Physics" abbrev="PHYS">Condensed Matter Physics</subject-classification>
+   <subject-classification code="3105" detail="Instrumentation" abbrev="PHYS">Instrumentation</subject-classification>
+   <subject-classification code="3106" detail="Nuclear and High Energy Physics" abbrev="PHYS">Nuclear and High Energy Physics</subject-classification>
+   <subject-classification code="3107" detail="Atomic and Molecular Physics, and Optics" abbrev="PHYS">Atomic and Molecular Physics, and Optics</subject-classification>
+   <subject-classification code="3108" detail="Radiation" abbrev="PHYS">Radiation</subject-classification>
+   <subject-classification code="3109" detail="Statistical and Nonlinear Physics" abbrev="PHYS">Statistical and Nonlinear Physics</subject-classification>
+   <subject-classification code="3110" detail="Surfaces and Interfaces" abbrev="PHYS">Surfaces and Interfaces</subject-classification>
+   <subject-classification code="3200" detail="Psychology (all)" abbrev="PSYC">Psychology (all)</subject-classification>
+   <subject-classification code="3201" detail="Psychology (miscellaneous)" abbrev="PSYC">Psychology (miscellaneous)</subject-classification>
+   <subject-classification code="3202" detail="Applied Psychology" abbrev="PSYC">Applied Psychology</subject-classification>
+   <subject-classification code="3203" detail="Clinical Psychology" abbrev="PSYC">Clinical Psychology</subject-classification>
+   <subject-classification code="3204" detail="Developmental and Educational Psychology" abbrev="PSYC">Developmental and Educational Psychology</subject-classification>
+   <subject-classification code="3205" detail="Experimental and Cognitive Psychology" abbrev="PSYC">Experimental and Cognitive Psychology</subject-classification>
+   <subject-classification code="3206" detail="Neuropsychology and Physiological Psychology" abbrev="PSYC">Neuropsychology and Physiological Psychology</subject-classification>
+   <subject-classification code="3207" detail="Social Psychology" abbrev="PSYC">Social Psychology</subject-classification>
+   <subject-classification code="3300" detail="Social Sciences (all)" abbrev="SOCI">Social Sciences (all)</subject-classification>
+   <subject-classification code="3301" detail=" (miscellaneous)Social Sciences" abbrev="SOCI">Social Sciences (miscellaneous)</subject-classification>
+   <subject-classification code="3302" detail="Archeology" abbrev="SOCI">Archeology</subject-classification>
+   <subject-classification code="3303" detail="Development" abbrev="SOCI">Development</subject-classification>
+   <subject-classification code="3304" detail="Education" abbrev="SOCI">Education</subject-classification>
+   <subject-classification code="3305" detail="Geography, Planning and Development" abbrev="SOCI">Geography, Planning and Development</subject-classification>
+   <subject-classification code="3306" detail="Health (social science)" abbrev="SOCI">Health (social science)</subject-classification>
+   <subject-classification code="3307" detail="Human Factors and Ergonomics" abbrev="SOCI">Human Factors and Ergonomics</subject-classification>
+   <subject-classification code="3308" detail="Law" abbrev="SOCI">Law</subject-classification>
+   <subject-classification code="3309" detail="Library and Information Sciences" abbrev="SOCI">Library and Information Sciences</subject-classification>
+   <subject-classification code="3310" detail="Linguistics and Language" abbrev="SOCI">Linguistics and Language</subject-classification>
+   <subject-classification code="3311" detail="Safety Research" abbrev="SOCI">Safety Research</subject-classification>
+   <subject-classification code="3312" detail="Sociology and Political Science" abbrev="SOCI">Sociology and Political Science</subject-classification>
+   <subject-classification code="3313" detail="Transportation" abbrev="SOCI">Transportation</subject-classification>
+   <subject-classification code="3314" detail="Anthropology" abbrev="SOCI">Anthropology</subject-classification>
+   <subject-classification code="3315" detail="Communication" abbrev="SOCI">Communication</subject-classification>
+   <subject-classification code="3316" detail="Cultural Studies" abbrev="SOCI">Cultural Studies</subject-classification>
+   <subject-classification code="3317" detail="Demography" abbrev="SOCI">Demography</subject-classification>
+   <subject-classification code="3318" detail="Gender Studies" abbrev="SOCI">Gender Studies</subject-classification>
+   <subject-classification code="3319" detail="Life-span and Life-course Studies" abbrev="SOCI">Life-span and Life-course Studies</subject-classification>
+   <subject-classification code="3320" detail="Political Science and International Relations" abbrev="SOCI">Political Science and International Relations</subject-classification>
+   <subject-classification code="3321" detail="Public Administration" abbrev="SOCI">Public Administration</subject-classification>
+   <subject-classification code="3322" detail="Urban Studies" abbrev="SOCI">Urban Studies</subject-classification>
+   <subject-classification code="3400" detail="Veterinary (all)" abbrev="VETE">Veterinary (all)</subject-classification>
+   <subject-classification code="3401" detail="Veterinary (miscellaneous)" abbrev="VETE">Veterinary (miscellaneous)</subject-classification>
+   <subject-classification code="3402" detail="Equine" abbrev="VETE">Equine</subject-classification>
+   <subject-classification code="3403" detail="Food Animals" abbrev="VETE">Food Animals</subject-classification>
+   <subject-classification code="3404" detail="Small Animals" abbrev="VETE">Small Animals</subject-classification>
+   <subject-classification code="3500" detail="Dentistry (all)" abbrev="DENT">Dentistry (all)</subject-classification>
+   <subject-classification code="3501" detail="Dentistry (miscellaneous)" abbrev="DENT">Dentistry (miscellaneous)</subject-classification>
+   <subject-classification code="3502" detail="Dental Assisting" abbrev="DENT">Dental Assisting</subject-classification>
+   <subject-classification code="3503" detail="Dental Hygiene" abbrev="DENT">Dental Hygiene</subject-classification>
+   <subject-classification code="3504" detail="Oral Surgery" abbrev="DENT">Oral Surgery</subject-classification>
+   <subject-classification code="3505" detail="Orthodontics" abbrev="DENT">Orthodontics</subject-classification>
+   <subject-classification code="3506" detail="Periodontics" abbrev="DENT">Periodontics</subject-classification>
+   <subject-classification code="3600" detail="Health Professions  (all)" abbrev="HEAL">Health Professions  (all)</subject-classification>
+   <subject-classification code="3601" detail="Health Professions  (miscellaneous)" abbrev="HEAL">Health Professions (miscellaneous)</subject-classification>
+   <subject-classification code="3602" detail="Chiropractics" abbrev="HEAL">Chiropractics</subject-classification>
+   <subject-classification code="3603" detail="Complementary and Manual Therapy" abbrev="HEAL">Complementary and Manual Therapy</subject-classification>
+   <subject-classification code="3604" detail="Emergency Medical Services" abbrev="HEAL">Emergency Medical Services</subject-classification>
+   <subject-classification code="3605" detail="Health Information Management" abbrev="HEAL">Health Information Management</subject-classification>
+   <subject-classification code="3606" detail="Medical Assisting and Transcription" abbrev="HEAL">Medical Assisting and Transcription</subject-classification>
+   <subject-classification code="3607" detail="Medical Laboratory Technology" abbrev="HEAL">Medical Laboratory Technology</subject-classification>
+   <subject-classification code="3608" detail="Medical Terminology" abbrev="HEAL">Medical Terminology</subject-classification>
+   <subject-classification code="3609" detail="Occupational Therapy" abbrev="HEAL">Occupational Therapy</subject-classification>
+   <subject-classification code="3610" detail="Optometry" abbrev="HEAL">Optometry</subject-classification>
+   <subject-classification code="3611" detail="Pharmacy" abbrev="HEAL">Pharmacy</subject-classification>
+   <subject-classification code="3612" detail="Physical Therapy, Sports Therapy and Rehabilitation" abbrev="HEAL">Physical Therapy, Sports Therapy and Rehabilitation</subject-classification>
+   <subject-classification code="3613" detail="Podiatry" abbrev="HEAL">Podiatry</subject-classification>
+   <subject-classification code="3614" detail="Radiological and Ultrasound Technology" abbrev="HEAL">Radiological and Ultrasound Technology</subject-classification>
+   <subject-classification code="3615" detail="Respiratory Care" abbrev="HEAL">Respiratory Care</subject-classification>
+   <subject-classification code="3616" detail="Speech and Hearing" abbrev="HEAL">Speech and Hearing</subject-classification>
+</subject-classifications>
